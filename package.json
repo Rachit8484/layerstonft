@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "canvas": "^2.8.0",
-    "truffle": "^5.5.16"
-  }
-}
